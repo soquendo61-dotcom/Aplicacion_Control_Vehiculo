@@ -29,8 +29,8 @@ Iniciando levantamiento de requerimientos.
 
 ## 1.4 Responsables
 
-- Santiago Oquendo Maillane
-- David Oquendo ?
+- Santiago Oquendo Maillane.
+- David Oquendo ??
 
 ## 1.5 Fecha de inicio
 
